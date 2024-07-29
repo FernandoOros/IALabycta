@@ -8,9 +8,9 @@ numpy==1.23.5
 Pillow==9.4.0
 tensorflow==2.12.1
 tensorflow-datasets==4.8.3
-tensorflow-estimator==2.12.0rc0
+tensorflow-estimator==2.12.1
 tensorflow-hub==0.15.0
-tensorflow-intel==2.12.0rc0
+tensorflow-intel==2.12.1
 tensorflow-io==0.29.0
 tensorflow-io-gcs-filesystem==0.29.0
 tensorflow-metadata==1.12.0
