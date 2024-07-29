@@ -118,5 +118,5 @@ def send_image(filename):
     return send_from_directory(images_path, filename)
 
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 3000))
+    port = int(os.environ.get('PORT', 4000))
     app.run(host='0.0.0.0', port=port, debug=os.environ.get('DEBUG', 'False') == 'True')
